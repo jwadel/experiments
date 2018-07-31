@@ -1,4 +1,4 @@
-# Basic Experiments With Technologies
+# Basic Quick Experiments With Technologies
 
 - ## KAFKA EXPERIMENT (Utility Script)  
 
@@ -33,3 +33,11 @@
 
     topic list [name]                     List a kafka topic
     ```
+	
+  **Example Usage:**
+     ```
+    ./kafka.sh provision
+	./kafka.sh topic create TestTopic 10
+    ```
+	
+	
