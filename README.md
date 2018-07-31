@@ -1,4 +1,4 @@
-# Basic Quick Experiments With Technologies
+# Quick Basic Experiments With Technologies
 
 - ## KAFKA EXPERIMENT (Utility Script)  
 
@@ -6,7 +6,7 @@
 
   **Description:** Setup Kafka with Zookeeper and MySQL on Docker Machine
 
-  **Note:** 
+  **Prerequisites:** 
 	- Install and use Git-Bash instead of Windows Command Prompt (a)
 	- Install Docker for Windows (b)
 	- Enable Hyper-V windows feature (c) and create a virtual switch called "PrimaryVirtualSwitch" (d)
