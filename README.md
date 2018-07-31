@@ -6,9 +6,12 @@
 
   **Description:** Setup Kafka with Zookeeper and MySQL on Docker Machine
 
-  **Note:** Ensure you have enabled Hyper-V windows feature and created a virtual switch called "PrimaryVirtualSwitch"
+  **Note:** 
+	- Install and use Git-Bash instead of Windows Command Prompt
+	- Ensure you have enabled Hyper-V windows feature and created a virtual switch called "PrimaryVirtualSwitch"
 
   **References:** 
+	- http://www.techoism.com/how-to-install-git-bash-on-windows/
     - https://docs.microsoft.com/en-gb/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v
     - https://docs.docker.com/machine/drivers/hyper-v/
   
